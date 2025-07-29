@@ -3,7 +3,7 @@
 Deep learning approach integrating convolutional neural networks (CNNs) and vision transformers for classifying unlabelled L929sAhFas cells into live, apoptosis, and necroptosis obtained using the digital holographic microscopy technique. To further enhance the model’s performance, we integrate an Eigen Projection-based Attention Mechanism (EPAM) block, which guides the network to focus on relevant spatial regions within the image. The proposed method offers a non-invasive and computationally efficient solution for assessing cell death.
 
 **Network Block Diagram**
-![Block Diagram](Images\BlockDiagram.png "Block Diagram")
+![Block Diagram](Images/BlockDiagram.png "Block Diagram")
 
 **Dataset**
 Images: Directory with all the images
